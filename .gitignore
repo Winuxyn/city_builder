@@ -1,0 +1,33 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity cache and temporary files
+/Assets/AssetStoreTools*
+/Assets/Plugins/Editor/JetBrains*
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity package manager
+/Packages/manifest.json
+/Packages/packages-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
