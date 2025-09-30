@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61e9f731357b6da449ba832e07fa686f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/Road Tiles/Road 10.asset
+  uploadId: 422643

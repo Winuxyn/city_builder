@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad9dcbd8068b9e947a37e0d17582c153
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/ParkTiles/Park_2_Bottom.asset
+  uploadId: 422643

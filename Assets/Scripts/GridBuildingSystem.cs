@@ -26,6 +26,13 @@ public class GridBuildingSystem : MonoBehaviour
 
     private void Start()
     {
+        string tilepath = @"Tiles/";
+
+        tileBases.Add(TilesType.Empty, null);
+        tileBases.Add(TilesType.Ground, Resources.Load<TileBase>(tilepath + "Ground"));
+        tileBases.Add(TilesType.Green, Resources.Load<TileBase>(tilepath + "Green"));
+        tileBases.Add(TilesType.Red, Resources.Load<TileBase>(tilepath + "Red"));
+
     }
 
     private void Update()
@@ -54,6 +61,18 @@ public class GridBuildingSystem : MonoBehaviour
                     FollowBuilding();
                 }
             }
+        }
+        else if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (temp.CanBePlaced())
+            {
+                temp.Place();
+             }
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            ClearArea();
+            Destroy(temp.gameObject);
         }
     }
 
@@ -111,7 +130,7 @@ public class GridBuildingSystem : MonoBehaviour
 
     private void FollowBuilding()
     {
-        //ClearArea();
+        ClearArea();
 
         temp.area.position = gridLayout.WorldToCell(temp.gameObject.transform.position);
         BoundsInt buildingArea = temp.area;
@@ -123,18 +142,39 @@ public class GridBuildingSystem : MonoBehaviour
 
         for (int i = 0; i < baseArray.Length; i++)
         {
-            if (baseArray[i] == tileBases[TilesType.White])
+            if (baseArray[i] == tileBases[TilesType.Ground])
             {
                 tileArray[i] = tileBases[TilesType.Green];
             }
             else
             {
                 tileArray[i] = tileBases[TilesType.Red];
-                break;
             }
         }
         tempTilemap.SetTilesBlock(buildingArea, tileArray);
         prevArea = buildingArea;
+    }
+
+    public bool CanTakeArea(BoundsInt area)
+    {
+        TileBase[] baseArray = GetTilesBlock(area, mainTilemap);
+        foreach (var b in baseArray)
+        {
+            if (b != tileBases[TilesType.Ground])
+            {
+                Debug.Log("Cannot place building here!");
+                Debug.Log(b);
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public void TakeArea(BoundsInt area)
+    {
+        SetTilesBlock(area, TilesType.Empty, tempTilemap);
+        SetTilesBlock(area, TilesType.Green, mainTilemap);
+
     }
 
     #endregion Building Placement
@@ -143,7 +183,7 @@ public class GridBuildingSystem : MonoBehaviour
 public enum TilesType
 {
     Empty,
-    White,
+    Ground,
     Green,
     Red
 }

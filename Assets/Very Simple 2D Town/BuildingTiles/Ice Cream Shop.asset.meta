@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f49d56f554eb394fa85454303fbdf7a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Ice Cream Shop.asset
+  uploadId: 422643

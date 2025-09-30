@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: defacf2e3230d67429e743e3acb3225b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Cafe 2.asset
+  uploadId: 422643

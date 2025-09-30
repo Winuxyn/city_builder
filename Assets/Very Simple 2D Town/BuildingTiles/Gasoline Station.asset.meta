@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7dab0039cd4c69b4ba7a48483c1d6f94
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Gasoline Station.asset
+  uploadId: 422643

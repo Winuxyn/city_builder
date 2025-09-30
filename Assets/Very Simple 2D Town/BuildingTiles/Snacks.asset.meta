@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab01ea082e6e80046905b41fdf54e2af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Snacks.asset
+  uploadId: 422643

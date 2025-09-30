@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4efb4553aafd8942850a8136d1217bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Burger Shop.asset
+  uploadId: 422643

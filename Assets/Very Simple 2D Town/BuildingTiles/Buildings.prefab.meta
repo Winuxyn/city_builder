@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b227e28ecbb138a4d96e9dd76548fafb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Buildings.prefab
+  uploadId: 422643

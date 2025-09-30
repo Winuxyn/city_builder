@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e1b567dad7e7724e9c854619cfa38a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Shop 10.asset
+  uploadId: 422643

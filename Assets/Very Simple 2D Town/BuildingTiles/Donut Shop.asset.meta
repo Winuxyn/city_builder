@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd2b89308860dfe4c9d9489589d49171
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191399
+  packageName: Simple 2D Isometric Town
+  packageVersion: 1.0
+  assetPath: Assets/Very Simple 2D Town/BuildingTiles/Donut Shop.asset
+  uploadId: 422643
