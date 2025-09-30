@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1bdc026440dedc144a1d3897dba6d1cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255250
+  packageName: 2D Isometric City | Isometric buildings | Isometric City Pack
+  packageVersion: 1.0
+  assetPath: Assets/GamedevDreamer/Scripts/ScrollingBackground.cs
+  uploadId: 598015

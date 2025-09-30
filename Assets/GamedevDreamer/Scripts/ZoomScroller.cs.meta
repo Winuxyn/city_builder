@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 761ec53d31ae6034b88aac99626a65a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255250
+  packageName: 2D Isometric City | Isometric buildings | Isometric City Pack
+  packageVersion: 1.0
+  assetPath: Assets/GamedevDreamer/Scripts/ZoomScroller.cs
+  uploadId: 598015

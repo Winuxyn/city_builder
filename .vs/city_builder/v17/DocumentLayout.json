@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\flo\\Documents\\GitHub\\city_builder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72C8A61B-6A62-73AA-1970-014C6237E029}|Assembly-CSharp.csproj|c:\\users\\flo\\documents\\github\\city_builder\\assets\\scripts\\tilesplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C8A61B-6A62-73AA-1970-014C6237E029}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilesplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72C8A61B-6A62-73AA-1970-014C6237E029}|Assembly-CSharp.csproj|c:\\users\\flo\\documents\\github\\city_builder\\assets\\scripts\\gridbuildingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C8A61B-6A62-73AA-1970-014C6237E029}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridbuildingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C8A61B-6A62-73AA-1970-014C6237E029}|Assembly-CSharp.csproj|C:\\Users\\flo\\Documents\\GitHub\\city_builder\\assets\\scripts\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C8A61B-6A62-73AA-1970-014C6237E029}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TilesPlacement.cs",
-              "DocumentMoniker": "C:\\Users\\flo\\Documents\\GitHub\\city_builder\\Assets\\Scripts\\TilesPlacement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TilesPlacement.cs",
-              "ToolTip": "C:\\Users\\flo\\Documents\\GitHub\\city_builder\\Assets\\Scripts\\TilesPlacement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TilesPlacement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Title": "GridBuildingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\flo\\Documents\\GitHub\\city_builder\\Assets\\Scripts\\GridBuildingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridBuildingSystem.cs",
+              "ToolTip": "C:\\Users\\flo\\Documents\\GitHub\\city_builder\\Assets\\Scripts\\GridBuildingSystem.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\GridBuildingSystem.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwHEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T18:27:15.415Z",
+              "WhenOpened": "2025-09-28T12:07:09.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\flo\\Documents\\GitHub\\city_builder\\Assets\\Scripts\\Building.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Building.cs",
+              "ToolTip": "C:\\Users\\flo\\Documents\\GitHub\\city_builder\\Assets\\Scripts\\Building.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:05:44.281Z",
               "EditorCaption": ""
             }
           ]
